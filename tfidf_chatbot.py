@@ -117,4 +117,4 @@ if __name__ == '__main__':
         if user_response == "quit":
             break
         response_primary = chat.enter_query(user_response)
-        print("marvin: ", response_primary)
+        print("Bot: ", response_primary)
